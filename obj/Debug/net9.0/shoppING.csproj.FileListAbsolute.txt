@@ -1,0 +1,14 @@
+C:\Users\MSI ThinGF63\Desktop\shoppING\bin\Debug\net9.0\shoppING.exe
+C:\Users\MSI ThinGF63\Desktop\shoppING\bin\Debug\net9.0\shoppING.deps.json
+C:\Users\MSI ThinGF63\Desktop\shoppING\bin\Debug\net9.0\shoppING.runtimeconfig.json
+C:\Users\MSI ThinGF63\Desktop\shoppING\bin\Debug\net9.0\shoppING.dll
+C:\Users\MSI ThinGF63\Desktop\shoppING\bin\Debug\net9.0\shoppING.pdb
+C:\Users\MSI ThinGF63\Desktop\shoppING\obj\Debug\net9.0\shoppING.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI ThinGF63\Desktop\shoppING\obj\Debug\net9.0\shoppING.AssemblyInfoInputs.cache
+C:\Users\MSI ThinGF63\Desktop\shoppING\obj\Debug\net9.0\shoppING.AssemblyInfo.cs
+C:\Users\MSI ThinGF63\Desktop\shoppING\obj\Debug\net9.0\shoppING.csproj.CoreCompileInputs.cache
+C:\Users\MSI ThinGF63\Desktop\shoppING\obj\Debug\net9.0\shoppING.dll
+C:\Users\MSI ThinGF63\Desktop\shoppING\obj\Debug\net9.0\refint\shoppING.dll
+C:\Users\MSI ThinGF63\Desktop\shoppING\obj\Debug\net9.0\shoppING.pdb
+C:\Users\MSI ThinGF63\Desktop\shoppING\obj\Debug\net9.0\shoppING.genruntimeconfig.cache
+C:\Users\MSI ThinGF63\Desktop\shoppING\obj\Debug\net9.0\ref\shoppING.dll
