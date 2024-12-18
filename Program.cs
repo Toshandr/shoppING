@@ -96,7 +96,7 @@ class Program
                     }
                 }
             case "lemon":
-                int coast3 = prices[0] * col;
+                int coast3 = prices[2] * col;
                 if(coast3 <= wallet){
                     Console.WriteLine($"Your change: {wallet - coast3}");
                     Console.WriteLine("Goodbye!");
